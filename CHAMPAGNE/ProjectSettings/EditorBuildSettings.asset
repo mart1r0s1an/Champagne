@@ -12,6 +12,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Scenes for UI/Continue via social media/SocialMedia.unity
     guid: a248d63e983940944b027a42db7856bb
   - enabled: 1
+    path: Assets/Scenes/Scenes for UI/Continue via social media/NickName.unity
+    guid: 06764cdf544c7974f81b68b42cb8f27b
+  - enabled: 1
+    path: Assets/Scenes/Scenes for UI/Store/Store.unity
+    guid: ea73ceafcf7eb1345ac9b90a96ecd238
+  - enabled: 1
+    path: Assets/Scenes/Scenes for UI/Store/DailyPrize.unity
+    guid: 63429bb5ac538da44bdd48f16c5b6a24
+  - enabled: 1
+    path: Assets/Scenes/Scenes for UI/Store/NFTS.unity
+    guid: ceea91edb44f3da4d8b8076f564dddea
+  - enabled: 1
     path: Assets/Scenes/Scenes for UI/Store/Email.unity
     guid: 3edfd8d6bd19ec64188362910d360377
   - enabled: 1
@@ -20,6 +32,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scenes for UI/Settings/Log Out.unity
     guid: 86b3826bcbbfc6641abd3c5287b1b71f
+  - enabled: 1
+    path: Assets/Scenes/Scenes for UI/Challange/Challenge Olympus.unity
+    guid: 5b2d1b2274ec58e4ba2cf1b1570b9d29
+  - enabled: 1
+    path: Assets/Scenes/Scenes for UI/Store/TopShakers.unity
+    guid: 18976c20e020dd74a91a9c11d28c60e6
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
